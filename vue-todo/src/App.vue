@@ -25,9 +25,11 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 body {
   text-align: center;
   background-color: #F6F6F6;
+  font-family: 'Caveat', cursive;
 }
 input {
   border-style: groove;
